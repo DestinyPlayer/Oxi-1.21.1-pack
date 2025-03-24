@@ -21,3 +21,4 @@ realms_persistence.json
 usercache.json
 observable_announce
 usernamecache.json
+command_history.txt
