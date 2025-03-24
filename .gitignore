@@ -9,7 +9,15 @@ logs/
 data/
 downloads/
 mods/.connector/
+xaero/
+saves/
+defaultconfigs/
+local/
+XaeroWaypoints_BACKUP*/
 
 patchouli_data.json
 options.txt
 realms_persistence.json
+usercache.json
+observable_announce
+usernamecache.json
