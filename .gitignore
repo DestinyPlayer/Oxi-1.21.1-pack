@@ -3,3 +3,13 @@ crash-reports/
 resourcepacks/
 shaderpacks/
 old-mods/
+config/
+.mixin.out/
+logs/
+data/
+downloads/
+mods/.connector/
+
+patchouli_data.json
+options.txt
+realms_persistence.json
