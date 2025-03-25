@@ -15,6 +15,7 @@ defaultconfigs/
 local/
 schematics/
 XaeroWaypoints_BACKUP*/
+Distant_Horizons*/
 
 patchouli_data.json
 options.txt
@@ -23,3 +24,4 @@ usercache.json
 observable_announce
 usernamecache.json
 command_history.txt
+servers.dat*
