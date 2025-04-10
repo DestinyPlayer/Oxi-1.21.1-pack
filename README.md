@@ -2,7 +2,7 @@
 
 ## How to install
 Minecraft version: 1.21.1
-Neoforge version: 21.1.138
+Neoforge version: 21.1.143
 
 * Click the green `<> Code` button in the top right, then `Download ZIP`.
 * The `base-mods` folder is the baseline modpack of the server. The `mods` folder is my customized version of it.
